@@ -293,6 +293,6 @@ driver.get("https://example.com")
 
 This project is intended for **educational and authorized penetration testing** only. Users are responsible for complying with all applicable laws and terms of service.
 
----
-
 Happy Browsing! 🎉
+
+Made with ❤️ by Tristan
