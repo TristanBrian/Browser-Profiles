@@ -1,0 +1,1 @@
+/home/tristan/Documents/browser-profiles/scripts/profile_manager.sh
